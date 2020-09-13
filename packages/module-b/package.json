@@ -1,0 +1,9 @@
+{
+  "name": "test_module_b",
+  "version": "1.0.0",
+  "main": "utils.js",
+  "license": "MIT",
+  "scripts": {
+    "test":"echo 'module a test'"
+  }
+}
